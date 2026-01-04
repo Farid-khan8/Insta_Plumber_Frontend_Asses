@@ -56,7 +56,7 @@ function Footer() {
                         </div>
                     </div>
 
-                    {/* Right CTA + Links */}
+                    {/* Right CTA & Links */}
                     <div className="lg:col-span-8">
                         {/* CTA */}
                         <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
@@ -138,7 +138,7 @@ function Footer() {
                 © MyCompany Name Ltd. All Rights Reserved.
             </div>
 
-            {/* Decorative Curve (Optional, matches screenshot vibe) */}
+            {/* Decorative Curve  */}
             <div className="absolute left-0 bottom-0 w-full h-full pointer-events-none opacity-20">
                 <svg
                     className="absolute bottom-0 left-0"

@@ -46,7 +46,6 @@ function WhyChoose() {
 
                         {/* Badge 3 */}
                         <div className="flex flex-col items-start gap-3">
-                            {/* <div className="flex flex-col items-start gap-3 sm:-ml-4"> */}
                             <img
                                 src={insuredIcon}
                                 alt="Fully Insured"

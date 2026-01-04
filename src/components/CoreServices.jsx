@@ -57,7 +57,7 @@ function CoreServices() {
                                         className="w-full h-48 object-cover"
                                     />
 
-                                    {/* SVG Icon — bigger & touching corner */}
+                                    {/* SVG Icon — bigger  touching corner */}
                                     <img
                                         src={service.icon}
                                         alt={`${service.title} icon`}

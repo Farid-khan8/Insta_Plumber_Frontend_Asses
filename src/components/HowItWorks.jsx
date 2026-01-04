@@ -44,7 +44,7 @@ function HowItWorks() {
                     Simple, fast, and reliable.
                 </h2>
 
-                {/* ================= DESKTOP TIMELINE ================= */}
+                {/*  DESKTOP TIMELINE */}
                 <div className="relative mt-20 hidden lg:block">
                     {/* Connector line (only between icons) */}
                     <div className="absolute top-[60px] left-[12%] right-[12%] border-t border-dashed border-gray-300" />
@@ -74,7 +74,7 @@ function HowItWorks() {
                     </div>
                 </div>
 
-                {/* ================= MOBILE TIMELINE ================= */}
+                {/*  MOBILE TIMELINE */}
                 <div className="relative mt-16 lg:hidden">
                     {/* Vertical line */}
                     <div className="absolute left-1/2 top-0 h-full border-l border-dashed border-gray-300 -translate-x-1/2" />

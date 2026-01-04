@@ -1,5 +1,5 @@
 import { ShowerHead } from "lucide-react";
-import heroImage from "../assets/hero.png"; // your image
+import heroImage from "../assets/hero.png";
 
 function Hero() {
     return (

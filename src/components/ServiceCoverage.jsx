@@ -1,6 +1,5 @@
 import { useState } from "react";
-import mapImage from "../assets/map2.png"; // adjust path
-
+import mapImage from "../assets/map2.png";
 function ServiceCoverage() {
     const [openSection, setOpenSection] = useState("central");
 
@@ -81,7 +80,7 @@ function ServiceCoverage() {
     );
 }
 
-/* ---------- Reusable Components ---------- */
+/* -- Reusable Components  */
 
 function AccordionItem({ title, isOpen, onClick, children }) {
     return (
