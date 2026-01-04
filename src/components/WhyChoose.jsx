@@ -1,5 +1,6 @@
 import experienceIcon from "../assets/years_experience.svg";
-import verifiedIcon from "../assets/verified.svg";
+// import verifiedIcon from "../assets/verified.svg";
+import verifiedIcon from "../assets/verified_icon.svg";
 import insuredIcon from "../assets/insured.svg";
 
 function WhyChoose() {
