@@ -1,4 +1,4 @@
-import experienceIcon from "../assets/experience.svg";
+import experienceIcon from "../assets/years_experience.svg";
 import verifiedIcon from "../assets/verified.svg";
 import insuredIcon from "../assets/insured.svg";
 
