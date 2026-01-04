@@ -1,5 +1,6 @@
 import experienceImage from "../assets/experience.png";
-import available from "../assets/available247.svg";
+// import available from "../assets/available247.svg";
+import availableIcon from "../assets/available247_icon.svg";
 import response from "../assets/response.svg";
 import pricing from "../assets/TransparentPricing.svg";
 
@@ -42,7 +43,7 @@ function WhyCustomersLove() {
                             <div className="flex gap-4 items-start">
                                 <div className="w-10 h-10 bg-blue-100 rounded-xl flex items-center justify-center shrink-0">
                                     <img
-                                        src={available}
+                                        src={availableIcon}
                                         alt="24/7 availability"
                                         className="w-5 h-5"
                                     />
