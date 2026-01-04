@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.clip-slant {
+    clip-path: polygon(0 0, 100% 0, 95% 100%, 0% 100%);
+}
