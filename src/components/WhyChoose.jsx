@@ -1,5 +1,3 @@
-import { User, ShieldCheck, BadgeDollarSign } from "lucide-react";
-
 import experienceIcon from "../assets/experience.svg";
 import verifiedIcon from "../assets/verified.svg";
 import insuredIcon from "../assets/insured.svg";
